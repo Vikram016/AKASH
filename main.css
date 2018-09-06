@@ -1,0 +1,65 @@
+body{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.navbar {
+    background-color: #2c3e50 !important;
+}
+
+.navbar .navbar-nav li a {
+color: #ecf0f1 !important;
+font-size : 1.5em;
+}
+
+.navbar-toggler{
+    background-color:#e67e22;
+}
+
+.full{
+    background: url('img/bc1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+
+.look{
+    background-color: #3498db !important;
+}
+
+.back-set{
+    background: url('img/bc3.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+height:100%;
+}
+
+.form-row{
+    color:#2980b9 !important;
+}
+
+.sec-btn{
+    color:#27ae60 !important;
+}
+
+.bg-btn{
+    background: url('img/color1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+.bg-btn-1{
+    background-color: #3498db;
+}
+.sec-btn-1{
+    color:#ecf0f1;
+}
+
+art-1{
+    color:#e67e22;
+}
